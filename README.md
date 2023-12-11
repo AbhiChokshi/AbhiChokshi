@@ -35,8 +35,8 @@ Passionate Java developer with over 2 years and 3 months of hands-on experience 
 
 ## 🚀 Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=abhi-chokshi&repo=project1&theme=dark)](https://github.com/AbhiChokshi)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=abhi-chokshi&repo=project2&theme=dark)](https://github.com/AbhiChokshi)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=abhi-chokshi&repo=project1&theme=dark)](https://github.com/AbhiChokshi/Entitlement-Machine-Learning)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=abhi-chokshi&repo=project2&theme=dark)](https://github.com/AbhiChokshi/React-Auth0-Role-Authenticator)
 
 ## 🤝 Looking for collaboration?
 
