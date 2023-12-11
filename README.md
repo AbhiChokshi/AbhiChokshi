@@ -30,7 +30,7 @@ Passionate Java developer with over 2 years and 3 months of hands-on experience 
 
 ## 🎉 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-chokshi&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiChokshi&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 
 ## 🚀 Featured Projects
